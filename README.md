@@ -44,6 +44,15 @@
   <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touch_Sensor_LED.gif">
 </p>
 
+* * * 
+
+>Try different shapes of electrodes
+>
+
+<p align="center">
+  <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Shapes.jpg">
+</p>
+
 * * *
-# Bingo!!
-Try the same code on ESP32 which has 10 capacitive touch pins.
+# Bingo!
+Try the same code on ESP32 which has 10 capacitive touch pins!
