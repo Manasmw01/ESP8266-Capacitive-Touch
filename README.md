@@ -30,3 +30,20 @@
 <p align="center">
   <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touched.gif">
 </p>
+
+* * * 
+
+>When touched, the value ranges around 60 to 90.
+>The given code will turn on the LED when the values ranges between 50 to 100.
+>Update the program according to your values.
+>Now re-upload this 
+>[Code](https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touch_Sensor_with_LED.ino)
+>
+
+<p align="center">
+  <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touch_Sensor_LED.gif">
+</p>
+
+* * *
+# Bingo!!
+Try the same code on ESP32 which has 10 capacitive touch pins.
