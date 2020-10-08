@@ -4,6 +4,5 @@
 </p>
 * * *
 <p align="center">
-  <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touched.gif
-">
+  <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touched.gif">
 </p>
