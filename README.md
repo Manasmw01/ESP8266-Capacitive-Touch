@@ -1,5 +1,9 @@
 # ESP8266-Capacitive-Touch
-![](Open.gif)
+<p align="center">
+  <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Open.gif">
+</p>
 * * *
-![](Touched.gif)
-* * *
+<p align="center">
+  <img src="https://github.com/Manasmw01/ESP8266-Capacitive-Touch/blob/main/Touched.gif
+">
+</p>
